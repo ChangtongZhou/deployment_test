@@ -1,3 +1,16 @@
 * {
   font-family: monaco;
 }
+
+.regis_errors{
+  color: red;
+}
+
+.login_errors{
+    color: #d85a1c;
+    border: 1px solid black;
+}
+
+.success_message{
+    color: green;
+}
